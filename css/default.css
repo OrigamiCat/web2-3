@@ -4,15 +4,12 @@ h1{
 }
 body{
 background-color:white;
-
+background-image:url(../img/Dash.png);
+background-repeat: no-repert;
 }
 a{
 color:gray;
 }
 a:hover{
 color:red;
-}
-background{
-background-image:url(../img/Dash.png);
-background-repeat: no-repert;
 }
