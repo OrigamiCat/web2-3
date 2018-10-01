@@ -6,3 +6,9 @@ body{
 background-color:red;
  
 }
+a{
+color:gray;
+}
+a:hover{
+color:red;
+}
