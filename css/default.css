@@ -5,7 +5,8 @@ h1{
 body{
 background-color:white;
 background-image:url(../img/Dash.png);
-background-repeat: no-repert no-repert;
+background-repeat: no-repeat no-repeat;
+
 }
 a{
 color:gray;
