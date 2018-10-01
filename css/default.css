@@ -1,17 +1,17 @@
 charset"UTF-8";
-h1{
+.h1{
  font-size:228.2px; 
 }
-body{
+.body{
 background-color:white;
 
 }
-a{
+.a{
 color:gray;
 }
-a:hover{
+.a:hover{
 color:red;
 }
-background{
+.background{
 backgroiund-image:url(../img/Dash.png);
 }
