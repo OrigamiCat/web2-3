@@ -4,10 +4,14 @@ h1{
 }
 body{
 background-color:white;
+
 }
 a{
 color:gray;
 }
 a:hover{
 color:red;
+}
+background{
+backgroiund-image:url(../img/);
 }
