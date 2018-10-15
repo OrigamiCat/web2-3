@@ -3,6 +3,7 @@ h1{
  color:blue;
  text-align:center;
  font-size:228.2px; 
+ line-height:0px;
 }
 body{
 background-color:white;
@@ -11,8 +12,7 @@ background-repeat: no-repeat no-repeat;
 
 }
 a{
-margin-bottom:0;
-padding:0;
+padding:10px;
 color:gray;
 }
 a:hover{
