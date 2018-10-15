@@ -13,8 +13,8 @@ background-size:1080px 480px;
 }
 
 div.sample {
-width:480px; height:680px;
-margin-right:10px; 
+width:200px; height:480px;
+margin:10px 900px auto auto; 
 background-color:white;
 }
 
