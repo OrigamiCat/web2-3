@@ -25,11 +25,11 @@ margin:5px; padding:10px; border:1px solid black;
 background-color:lightgray;
 }
 a{
-position:fixed; bottom:10px; left:10px;
+position:fixed; bottom:50px; left:10px;
 color:gray;
 }
 a:hover{
-position:fixed; bottom:10px; left:10px;
+position:fixed; bottom:50px; left:10px;
 color:red;
 }
 
