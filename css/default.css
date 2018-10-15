@@ -1,13 +1,11 @@
 charset"UTF-8";
 h1.a{
  color:blue;
- text-align:center;
  font-size:228.2px; 
  line-height:0px;
 }
 h1.b{
  color:blue;
- text-align:center;
  font-size:228.2px; 
  line-height:0px;
 }
@@ -18,12 +16,14 @@ background-repeat: no-repeat no-repeat;
 position:fixed; top:10px; right:10px;
 }
 
-
 div.sample {
 width:200px; height:1000px;
+position-top:10px;
+position-right:10px;
 margin:5px; padding-right:10px; border:1px solid black;
 background-color:gray;
 }
+
 a{
 position:fixed; bottom:50px; left:10px;
 color:gray;
