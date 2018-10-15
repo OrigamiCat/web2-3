@@ -14,7 +14,7 @@ background-size:1080px 480px;
 
 div.sample {
 width:480px; height:680px;
-position-right:800px;
+margin-right:10px; 
 background-color:white;
 }
 
