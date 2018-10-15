@@ -12,9 +12,10 @@ background-repeat: no-repeat no-repeat;
 
 }
 a{
-padding:10px;
+position:fixed; bottom:10px; left:10px;
 color:gray;
 }
 a:hover{
+position:fixed; bottom:10px; left:10px;
 color:red;
 }
