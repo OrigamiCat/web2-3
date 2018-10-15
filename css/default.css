@@ -1,5 +1,11 @@
 charset"UTF-8";
-h1{
+h1.a{
+ color:blue;
+ text-align:center;
+ font-size:228.2px; 
+ line-height:0px;
+}
+h1.b{
  color:blue;
  text-align:center;
  font-size:228.2px; 
@@ -11,6 +17,8 @@ background-image:url(../img/Dash.png);
 background-repeat: no-repeat no-repeat;
 position:fixed; top:10px; right:10px;
 }
+
+
 div.sample {
 width:200px; height:100px;
 margin:5px; padding:10px; border:1px solid black;
