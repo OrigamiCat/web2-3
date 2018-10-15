@@ -3,6 +3,7 @@ h1{
  color:blue;
  font-size:228.2px; 
  line-height:0px;
+ 
 }
 body{
 background-color:white;
@@ -20,11 +21,9 @@ background-color:gray;
 }
 
 a{
-position:fixed; bottom:50px; left:10px;
 color:gray;
 }
 a:hover{
-position:fixed; bottom:50px; left:10px;
 color:red;
 }
 
